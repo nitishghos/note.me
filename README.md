@@ -15,10 +15,6 @@ Before you begin, ensure you have met the following requirements:
 You have installed the latest version of Node.js.
 You have a basic understanding of JavaScript, HTML, and CSS.
 Installation
-Clone the repository:
-
-git clone https://github.com/satendrasingh-1/Note.me.git
-Navigate to the project directory:
 
 #For REACT
 cd client
@@ -51,5 +47,5 @@ Push to the branch (git push origin feature-name).
 Create a Pull Request.
 
 Contact
-If you have any questions or suggestions, feel free to contact me at satendraprataps56@gmail.com.
+If you have any questions or suggestions, feel free to contact me at nitishghosh99@gmail.com.
 
